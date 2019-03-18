@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=NetD6_2 Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=NetD24_2 Pin=R3-2
+Removed Pin From Net: NetName=NetD24_2 Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Change Component Footprint: Designator=R1 Old Footprint=R0603 New Footprint=R5329
+Change Component Footprint: Designator=R2 Old Footprint=R0603 New Footprint=R5329
+Change Component Footprint: Designator=R3 Old Footprint=R0603 New Footprint=R5329
+Change Component Footprint: Designator=R4 Old Footprint=R0603 New Footprint=R5329
+Change Component Comment : Designator=R1 Old Comment=RES 0603 60R 1% 0.25W New Comment=RES SMD 6.8 OHM 1% 5W 5329
+Change Component Comment : Designator=R2 Old Comment=RES 0603 60R 1% 0.25W New Comment=RES SMD 6.8 OHM 1% 5W 5329
+Change Component Comment : Designator=R3 Old Comment=RES SMD 20 OHM 5% 1/4W 0603 New Comment=RES SMD 6.8 OHM 1% 5W 5329
+Change Component Comment : Designator=R4 Old Comment=RES SMD 20 OHM 5% 1/4W 0603 New Comment=RES SMD 6.8 OHM 1% 5W 5329
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetD24_2 Pin=R4-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Net: Name=NetR2_1

@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetD6_2 Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=NetD24_2 Pin=R4-2
+Removed Member From Class: ClassName=tsal_v1 Member=R4
+Change Component Footprint: Designator=R1 Old Footprint=R5329 New Footprint=R2512 pad under
+Change Component Footprint: Designator=R2 Old Footprint=R5329 New Footprint=R2512 pad under
+Change Component Footprint: Designator=R3 Old Footprint=R5329 New Footprint=R2512 pad under
+Change Component Comment : Designator=R1 Old Comment=RES SMD 6.8 OHM 1% 5W 5329 New Comment=RES SMD 6.8 OHM 1% 16W 2512
+Change Component Comment : Designator=R2 Old Comment=RES SMD 6.8 OHM 1% 5W 5329 New Comment=RES SMD 10 OHM 1% 16W 2512
+Change Component Comment : Designator=R3 Old Comment=RES SMD 6.8 OHM 1% 5W 5329 New Comment=RES SMD 10 OHM 1% 16W 2512
+Change component parameters: Designator = "R1"; Footprint = "R2512 pad under"; UniqueID = "\UKCAFCXS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "CPA25Q6.8CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier_Link"; Value = "https://www.digikey.com/product-detail/en/susumu/CPA2512Q6R80FS-T10/CPA25Q6.8CT-ND/1935961"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CPA25Q6.8CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "6.8R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "R2512 pad under"; UniqueID = "\WXKIFBQC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "CPA25Q10.0CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier_Link"; Value = "https://www.digikey.com/product-detail/en/susumu/CPA2512Q10R0FS-T10/CPA25Q10.0CT-ND/1935963"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CPA25Q10.0CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R2512 pad under"; UniqueID = "\NEZJGEQI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "CPA25Q10.0CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "16W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier_Link"; Value = "https://www.digikey.com/product-detail/en/susumu/CPA2512Q10R0FS-T10/CPA25Q10.0CT-ND/1935963"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CPA25Q10.0CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetD24_2 Pin=R1-2
+Added Pin To Net: NetName=NetD6_2 Pin=R2-2

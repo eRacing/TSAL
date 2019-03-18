@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ICFDHCDV
 
 [Document5]
 DocumentPath=..\..\..\elec\libaltium\Libraries\Custom\Connectors.PcbLib
@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OSRWFMPN
 
 [Document7]
 DocumentPath=..\..\..\elec\libaltium\Libraries\Custom\Diodes.PcbLib
@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LCELGERN
 
 [Document9]
 DocumentPath=..\..\..\elec\libaltium\Libraries\Custom\Fuses.PcbLib
@@ -205,7 +205,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LAIWUDRP
 
 [Document11]
 DocumentPath=..\..\..\elec\libaltium\Libraries\Custom\IC.PcbLib
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TSRIGUPK
 
 [Document13]
 DocumentPath=..\..\..\elec\libaltium\Libraries\Custom\Inductors.PcbLib
@@ -273,7 +273,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AJARHFGU
 
 [Document15]
 DocumentPath=..\..\..\elec\libaltium\Libraries\Custom\Logos.PcbLib
@@ -324,7 +324,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WARTOJKU
 
 [Document18]
 DocumentPath=..\..\..\elec\libaltium\Libraries\Custom\Resistors.PcbLib
@@ -341,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OMPCKOIG
 
 [Document19]
 DocumentPath=..\..\..\elec\libaltium\Libraries\Custom\Resistors.SchLib
@@ -358,7 +358,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WMYJDNVW
 
 [Document20]
 DocumentPath=..\..\..\elec\libaltium\Libraries\Custom\Transistors.PcbLib
@@ -392,7 +392,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=COTXNWAV
 
 [Document22]
 DocumentPath=..\..\..\elec\libaltium\Libraries\Custom\Wiring.PcbLib
@@ -426,7 +426,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HPKOPYUU
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for tsal_v1\Design Rule Check - tsal_v1.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=title
